@@ -1,3 +1,5 @@
+***This CTD occurs when saving the game(Normal or Quick Save). Information here is relevant to a .NET Script Framework Log. This could truly be a leveled list issue BUT it is most likely from a save error that occured when trying to save the game during your playthrough. This happens from a lack of memory when trying to save causing a sort of loop when that leads to a CTD. Once it occurs, it will keep on HAPPENING. 
+
 Possible Relevant Objects: TESLevItem(FormId: xxxxxxxx, File: `Example.esp <- xxx.esp <- Skyrim.esm`)
 
 Possible Callstack: BGSSaveGameBuffer::unk_xxxxxx+xx (Mentioned somewhere)
