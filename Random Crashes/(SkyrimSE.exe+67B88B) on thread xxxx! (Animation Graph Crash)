@@ -1,0 +1,4 @@
+(SkyrimSE.exe+67B88B) on thread xxxx!
+Callstack: 'AnimationGraphManagerHolder' mentioned somewhere
+*People have mentioned this is an animation graph crash. However, I am not really sure what this could entail besides a broken animation, too many animations, or an improper load order. 
+NEEDS further testing
