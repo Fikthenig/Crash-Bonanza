@@ -1,0 +1,3 @@
+Dialogue Mods using Honed Metal
+*Essentially, certain dialogue mods, most notably Your Own Thoughts or Swift Service, breaks the dialogue mechanics of Honed Metal, causing CTDs
+FIX: Simply finding out which dialogue mod is causing the issue and then deleting it would suffice. I recommend getting rid of Honed Metal as the SSE version is an outdated mod with missing dlls and broken scripts (The LE version, on the other hand, I recommend). Some people have mentioned enabling tbbmalloc as true in SSE Engine Fixes as a way to fix this issue. Unfortunately, this option has since been removed.
