@@ -1,4 +1,4 @@
 (SkyrimSE.exe+67B88B) on thread xxxx!
 Callstack: 'AnimationGraphManagerHolder' mentioned somewhere
-*People have mentioned this is an animation graph crash. However, I am not really sure what this could entail besides a broken animation, too many animations, or an improper load order. 
-NEEDS further testing
+*People have mentioned this is an animation graph crash. However, I am not really sure what this could entail besides an un-updated FNIS.esp, a broken animation, too many animations, or an improper load order. NEEDS further testing
+ADVICE: Make sure to update your animation registry through FNIS or Nemesis. Many forget to do this after getting or updating an animation mod. Additionally, it is vital you enable your FNIS.esp and NOT delete it when using Nemesis. Nemesis, like FNIS, creates a plugin file which are both named FNIS.esp.
