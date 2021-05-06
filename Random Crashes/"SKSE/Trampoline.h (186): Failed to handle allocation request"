@@ -1,0 +1,4 @@
+Occurs when starting SKSE(Not found in the NETSCRIPT LOG but rather a popup message)
+"SKSE/Trampoline.h (186): Failed to handle allocation request" 
+*This can occur from a poor installation of SSE engine fixes or simply from the mod organizer not reading the dll properly.
+FIX: Restarting mod organizer or your PC can fix this. If it still doesn't work, try reinstalling SSE Engine Fixes properly or Microsoft Visual C++ again.
