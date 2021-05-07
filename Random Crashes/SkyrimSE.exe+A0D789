@@ -1,4 +1,3 @@
 SkyrimSE.exe+A0D789
 *This is a random crash that is associated with animation mods or possibly tweaks in ai. Advice is to look at when it occurs and target mods that you know affect this. Some people have noticed this occurs when certain dragons melee stomped with their tail(Fix on the Ultimate dragons page if used). I have noticed this crash also occurs for when you enable a tweak in bashed patch that is already being modified by another mod. Others have mentioned having this CTD with EVG variance or EVG conditional idles as well; specifically one of the animations is causing this issue(presumably 'old walk' but at this stage, needs further testing).
-Other notable offenders include: CGO
-NEEDS further testing!!!
+
