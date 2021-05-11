@@ -1,3 +1,0 @@
-SkyrimSE.exe+D6DDDA
-Stack: BSResource::anonymous_namespace::LooseFileStream* mentioned somewhere
-*This occurs when you don't have enough virtual memory on your disk drive. This can be fixed by increasing your pagefile size for your hard disk(Google or Bing how to increase pagefile size). I would recommend an SSD as that is significantly faster and less stuttery.
