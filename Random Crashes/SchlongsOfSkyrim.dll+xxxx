@@ -1,3 +1,3 @@
 SchlongsOfSkyrim.dll+xxxx
-*This can occur if you try to change your load order or eslify one of your mods with the schlongs of skyrim mod installed. 
+*This can occur if you try to change your load order or eslify one of your mods with the Schlongs of Skyrim mod installed. 
 FIX: Load your save before the change in load order and reschlongify all your armors. On the safe side, you can reset the mod as well. Make a save after and proceed with load order change. If you are unable to load your save prior to changing your load order, you can try hiding your schlongsofskyrim.dll file temporarily, loading your game, and proceed with the instructions stated above. Make sure you unhide your dll file right after.
