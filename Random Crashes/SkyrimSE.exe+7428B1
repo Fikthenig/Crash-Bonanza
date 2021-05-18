@@ -1,0 +1,3 @@
+SkyrimSE.exe+7428B1
+*This CTD seems to be caused by the Equipment Durability System mod but it is also possible for this to be attributed to other perks/spell mods that interfere or modify characters when holding weapons. Some have noted this occurs when enchanted weapon breaks. It's also possible that this may have a conflict with another mod, but this would need further testing and input from other users.
+FIX: A possible fix involving the mod SSE Engine Fixes has been posted in the comment section of this Crash Compilation and would need further testing to affirm it works.
