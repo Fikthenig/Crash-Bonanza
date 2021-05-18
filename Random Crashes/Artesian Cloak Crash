@@ -1,0 +1,4 @@
+Artesian Cloaks of Skyrim CTD
+Stack: mentions "clothes\cloaksofskyrim\xxxx\xxx.nif" somewhere
+*If you have Artesian Cloak, chances are you may have had this crash. It plagues multiple of the hdt-modified capes from Cloaks of Skyrim. It is broken and has been recognized by the author to be broken.
+FIX: The author has made a patch for Cloaks of Skyrim Retextured that fixes this exact issue. You would need to have Cloaks of Skyrim Retextured, but the crash will stop happening. If you don't want to get this retexture mod, one suggestion would be to remove the Cloaks of Skyrim patch by Artesian Cloaks of Skyrim. Another suggestion posed by a user Moosmupfel would be to duplicate a similar mesh to the cloak causing the crash and copying the appropriate texture path to the file in Nifskope.
