@@ -1,0 +1,3 @@
+SkyrimSE.exe+C0EB6A
+This can arise from Skyrim's native memory manager acting inefficient. This has been replaced in SSE Engine Fixes with the "Use OS Allocators" patch that is part of the Memory Manager entry.
+FIX: Enable MemoryManager under Patches in SSE Engine Fixes.
