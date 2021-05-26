@@ -1,3 +1,8 @@
 This is a problem that has plagued the community for quite sometime now and there are various, various causes that this could occur. Simply put, this CTD occurs and results in no crash log being created in the process. This CTD has been known to occur a bit differently for most people as some have described a slight 5 second freeze before crash or an abrupt and immediate crash without any forewarning. 
 Corrupted Nifs: I have stated previously in this compilation that corrupted nifs could result in no crash log depending on what file and how corrupted it is. This is quite unfortunate b/c you have no way of knowing if the nif is the cause or something else.
-Game Dimensions: Others have reported this occuring when enabling both fullscreen and windowed at the same time in the Skyrim preferences. Having BethINI prevents you from doing this, but it doesn't hurt to check if this is something you think you might have changed manually.
+-----------------
+Game Dimensions: Others have reported this occurring when enabling both fullscreen and windowed at the same time in the Skyrim preferences. Having BethINI prevents you from doing this, but it doesn't hurt to check if this is something you think you might have changed manually.
+-----------------
+NPC Spawn Perk: Supposedly, this has also been attributed to this specific crash and the chance increases with larger spawns of npc. I am curious as to know what mod utilizing Spell Perk Item Distributor (SPID) could be causing this.
+-----------------
+
