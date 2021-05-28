@@ -5,4 +5,5 @@ Game Dimensions: Others have reported this occurring when enabling both fullscre
 -----------------
 NPC Spawn Perk: Supposedly, this has also been attributed to this specific crash and the chance increases with larger spawns of npc. I am curious as to know what mod utilizing Spell Perk Item Distributor (SPID) could be causing this.
 -----------------
-
+SSE Display Tweaks: If you didn't listen or you updated and forgot to modify your SSEDisplayTweaksINI, then it could cause issues. One issue arises from using vsync enabled in DisplayTweaks and ENB's vsync. As stated in the description, using both could cause freezes at the Skyrim Start menu. However, if you are lucky and it doesn't freeze, it could random crashes with a slight freeze beforehand mid-game. This, while not having a crash log, can make identifying this issue to be an elusive task.
+FIX: Enabling either DisplayTweaks or ENB's vsync and not both would fix the issue.
