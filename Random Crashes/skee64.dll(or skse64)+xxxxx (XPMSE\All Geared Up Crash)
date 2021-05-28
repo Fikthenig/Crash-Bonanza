@@ -1,0 +1,6 @@
+skee64.dll+xxxxx OR skse64_x_x_xx.dll 
+Stack: Mentions XPMSEWeaponStyleScaleEffect.psc and agud_system.psc somewhere in the log
+OR
+Possible Relevant Objects: BGSHazard(Name: `Fire`, FormId: 00057A8C, File: `Skyrim.esm`)
+*This is a known issue associated with XPMSE. Even if you don't have all geared up, this crash has been known to occur. Too much information about this bug to list here so I will refer this link: https://www.nexusmods.com/skyrimspecialedition/articles/1372
+FIX: Link for fix: https://www.nexusmods.com/skyrimspecialedition/mods/44252?tab=description
