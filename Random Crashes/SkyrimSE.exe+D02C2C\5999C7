@@ -1,0 +1,3 @@
+SkyrimSE.exe+D02C2C    OR   SkyrimSE.exe+5999C7
+Stacks: Mentions a reference to Monster Mod.esp
+*Monster Mod has been known to cause numerous issues, bugs, and CTDs even with the unofficial bug fix. There have been recent updates that try its best to curb any potential crashes. Common advice also notes using the esp rather than the esm as that has not been properly updated (A good rule amongst modders is to always do a full reinstall rather than a merge when you can as a lot I can change and incompatibilities can ensue). However, I would honestly stay away until there has been all possible crashes are fixed for the time being. You have been warned!!!
