@@ -1,0 +1,5 @@
+Ultimate Dragons Stomp Crash
+When combating a dragon with the Ultimate Dragons mod enabled
+Stack: NiParticleSystem(Name: `CandleFlame01`) OR CandleFlame generally mentioned
+*This is a known crash related to the stomping behavior and animation for Ultimate Dragons.
+FIX: As stated previously, this is a known crash with an official fix. However, this fix won't work if you regenerate Nemesis after installing. Make sure to regenerate Nemesis BEFORE updating the mod with the fix. This will unfortunately have to be done each time you regenerate Nemesis, so keep the file handy in your download tab.
