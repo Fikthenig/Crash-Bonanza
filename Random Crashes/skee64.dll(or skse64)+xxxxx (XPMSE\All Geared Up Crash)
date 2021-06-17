@@ -2,6 +2,7 @@ skee64.dll+xxxxx OR skse64_x_x_xx.dll
 AND
 Stack: Mentions XPMSEWeaponStyleScaleEffect.psc and agud_system.psc somewhere in the log
 OR
-Possible Relevant Objects: BGSHazard(Name: `Fire`, FormId: 00057A8C, File: `Skyrim.esm`)
-*This is a known issue associated with XPMSE. Even if you don't have all geared up, this crash has been known to occur. Too much information about this bug to list here so I will refer this link: https://www.nexusmods.com/skyrimspecialedition/articles/1372
+Possible Relevant Objects: BGSHazard(Name: `Fire`, FormId: xxxxxxxx, File: `Skyrim.esm`)
+*This is a known issue associated with XPMSE or a result of a heavily scripted playthrough while using autosaves or quicksaves. Even if you don't have all geared up, this crash has been known to occur. Too much information about this bug to list here so I will refer this link: https://www.nexusmods.com/skyrimspecialedition/articles/1372
 FIX: Link for fix: https://www.nexusmods.com/skyrimspecialedition/mods/44252?tab=description; Also, make sure SKSE and racemenu is up to date if you haven't done so already.
+If this doesn't fix your issue, we can assume it is the latter(save/script issue). My prevention advice in the "Famous Crash on Save Bug" largely addresses this issue. Before that, if your game crashed on save, make sure to delete any temp files it may have created in the save folder.  
